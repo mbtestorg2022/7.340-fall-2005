@@ -4,20 +4,201 @@ title: Calendar
 uid: dd65c993-9b2f-3ac1-d789-735fb43f6bd6
 ---
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | An Introduction to Virus Structure and Assembly |  |
-| 2 | Principles of Virus Symmetry |  |
-| 3 | Virus Crystallography and Cryo-EM | Virus structure project due |
-| 4 | Capsid Assembly |  |
-| 5 | Capsid Assembly II | Abstract assignment due |
-| 6 | Nucleic Acid Packaging |  |
-| 7 | Virus Recognition and Attachment |  |
-| 8 | Virus Entry |  |
-| 9 | Virus Structures in the Cell |  |
-| 10 | Virus Exit and Release |  |
-| 11 | Human Immunodeficiency Virus |  |
-| 12 | Project Day: Looking at Virus Structures in 3D | Draft of research proposal due |
-| 13 | Virus Nanotechnology |  |
-| 14 | Field Trip to the Transmission Electron Microscope |  |
-| 15 | Proposal Presentations | Final version of research proposal due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+An Introduction to Virus Structure and Assembly
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Principles of Virus Symmetry
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Virus Crystallography and Cryo-EM
+{{< tdclose >}}
+{{< tdopen >}}
+Virus structure project due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Capsid Assembly
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Capsid Assembly II
+{{< tdclose >}}
+{{< tdopen >}}
+Abstract assignment due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Nucleic Acid Packaging
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Virus Recognition and Attachment
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Virus Entry
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Virus Structures in the Cell
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Virus Exit and Release
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Human Immunodeficiency Virus
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Project Day: Looking at Virus Structures in 3D
+{{< tdclose >}}
+{{< tdopen >}}
+Draft of research proposal due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Virus Nanotechnology
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Field Trip to the Transmission Electron Microscope
+{{< tdclose >}}
+{{< tdopen >}}
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Proposal Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Final version of research proposal due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
